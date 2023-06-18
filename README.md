@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://product.kyobobook.co.kr/detail/S000001032980">
-      <img src="0주차/cleanCode.jpeg" alt="Logo" width="200">
+      <img src="cleanCode.jpeg" alt="Logo" width="200">
   </a>
   <h1>Clean Code 클린 코드</h1>
   <div>
