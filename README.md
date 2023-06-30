@@ -90,5 +90,5 @@
 | :-----: | :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--: | :--: | :--: | :--: | :--: |
 | week_01 | 06-09 ~ 06-10 | [0주차(OT)](https://github.com/code-bibliotheca/clean-code/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8.md) |  😀  |  😀  |  😀  |  ❌  |  😀  |
 | week_02 | 06-12 ~ 06-18 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ❌  |  ✏️  |  😀  |  😀  |
-| week_03 | 06-20 ~ 06-25 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  |
+| week_03 | 06-20 ~ 06-25 |   [2주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  |
 
