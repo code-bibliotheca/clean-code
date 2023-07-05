@@ -26,7 +26,7 @@
   - 4장. 주석
   - 5장. 형식 맞추기
   - 6장. 객체와 자료 구조
-- 3주차
+- [3주차(7~9장)](https://github.com/code-bibliotheca/clean-code/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8.md)
   - 7장. 오류 처리
   - 8장. 경계
   - 9장. 단위 테스트
