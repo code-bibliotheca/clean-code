@@ -73,7 +73,8 @@
     <td align="center"><a href="https://github.com/jiji-hoon96"><img src="https://avatars.githubusercontent.com/u/94469974?v=4" width="100px;" alt=""/> <br /><sub><b>JIHOON LEE</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/bubobubobo"><img src="https://avatars.githubusercontent.com/u/58013476?v=4" width="100px;" alt=""/> <br /><sub><b>sujong</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hanyiseo2"><img src="https://avatars.githubusercontent.com/u/122385460?v=4" width="100px;" alt=""/> <br /><sub><b>Hanyi SEO</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/jihyeon-kimy"><img src="https://avatars.githubusercontent.com/u/78922001?v=4" width="100px;" alt=""/> <br /><sub><b>jihyeon kim</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jihyeon-kimy"><img src="https://avatars.githubusercontent.com/u/78922001?v=4" width="100px;" alt=""/> <br /><sub><b>jihyeon kim</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/tpdud406"><img src="https://avatars.githubusercontent.com/u/95858555?v=4" width="100px;" alt=""/> <br /><sub><b>이세영(LeeSeYoung)</b></sub></a><br /></td>
 
   </tr>
 </table>
@@ -86,9 +87,9 @@
 | :-------: | :--------------: | :----: | :--: |
 |   표기    |        😀        |   ❌   |  ✏️  |
 
-|  주차   |     날짜      |                                                       내용                                                       | 수종 | 유정 | 지훈 | 지현 | 한이 |
-| :-----: | :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--: | :--: | :--: | :--: | :--: |
-| week_01 | 06-09 ~ 06-10 | [0주차(OT)](https://github.com/code-bibliotheca/clean-code/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8.md) |  😀  |  😀  |  😀  |  ❌  |  😀  |
-| week_02 | 06-12 ~ 06-18 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ❌  |  ✏️  |  😀  |  😀  |
-| week_03 | 06-20 ~ 06-25 |   [2주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  |
-| week_04 | 06-26 ~ 07-03 |   [3주차](https://github.com/code-bibliotheca/clean-code/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ✏️  |  😀  |  😀  |  ❌  |
+|  주차   |     날짜      |                                                       내용                                                       | 수종 | 유정 | 지훈 | 지현 | 한이 | 세영 |
+| :-----: | :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--: | :--: | :--: | :--: | :--: | :--: |
+| week_01 | 06-09 ~ 06-10 | [0주차(OT)](https://github.com/code-bibliotheca/clean-code/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8.md) |  😀  |  😀  |  😀  |  ❌  |  😀  | |
+| week_02 | 06-12 ~ 06-18 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ❌  |  ✏️  |  😀  |  😀  | |
+| week_03 | 06-20 ~ 06-25 |   [2주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  | | 
+| week_04 | 06-26 ~ 07-03 |   [3주차](https://github.com/code-bibliotheca/clean-code/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ✏️  |  😀  |  😀  |  ❌  | |
