@@ -30,11 +30,11 @@
   - 7장. 오류 처리
   - 8장. 경계
   - 9장. 단위 테스트
-- 4주차
+- [4주차(10~12장)](https://github.com/code-bibliotheca/clean-code/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8.md)
   - 10장. 클래스
   - 11장. 시스템
   - 12장. 창발성
-- 5주차
+- [5주차(13~14장)](https://github.com/code-bibliotheca/clean-code/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8.md)
   - 13장. 동시성
   - 14장. 점진적인 개선
 - 6주차
