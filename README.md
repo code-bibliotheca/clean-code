@@ -89,7 +89,9 @@
 
 |  주차   |     날짜      |                                                       내용                                                       | 수종 | 유정 | 지훈 | 지현 | 한이 | 세영 |
 | :-----: | :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--: | :--: | :--: | :--: | :--: | :--: |
-| week_01 | 06-09 ~ 06-10 | [0주차(OT)](https://github.com/code-bibliotheca/clean-code/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8.md) |  😀  |  😀  |  😀  |  ❌  |  😀  | |
-| week_02 | 06-12 ~ 06-18 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ❌  |  ✏️  |  😀  |  😀  | |
-| week_03 | 06-20 ~ 06-25 |   [2주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  | | 
-| week_04 | 06-26 ~ 07-03 |   [3주차](https://github.com/code-bibliotheca/clean-code/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ✏️  |  😀  |  😀  |  ❌  | |
+| week_00 | 06-09 ~ 06-10 | [0주차(OT)](https://github.com/code-bibliotheca/clean-code/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8.md) |  😀  |  😀  |  😀  |  ❌  |  😀  | |
+| week_01 | 06-10 ~ 06-16 |   [1주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ❌  |  ✏️  |  😀  |  😀  | |
+| week_02 | 06-17 ~ 06-23 |   [2주차](https://github.com/code-bibliotheca/clean-code/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8.md)   |  ✏️  |  😀  |  😀  |  ❌  |  😀  | | 
+| week_03 | 06-24 ~ 06-30 |   [3주차](https://github.com/code-bibliotheca/clean-code/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8.md)   |  😀  |  ✏️  |  😀  |  😀  |  ❌  | |
+| week_04 | 07-01 ~ 07-07 |   [4주차](https://github.com/code-bibliotheca/clean-code/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8.md)   |  😀  |  😀  |  😀  |  😀  |  ✏️  | 😀 |
+| week_05 | 07-08 ~ 07-14 |   [5주차](https://github.com/code-bibliotheca/clean-code/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8.md)   |  😀  |  😀  |  😀  |  ✏️  |  😀  | 😀 |
